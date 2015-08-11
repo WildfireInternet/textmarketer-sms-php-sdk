@@ -1,7 +1,7 @@
 {
 	"name" : "twosuperior/textmarketer",
 	"homepage" : "https://github.com/twosuperior/textmarketer",
-	"description": "Unofficial Wrapper for Official Text Marketer Rest Client",
+	"description": "Unofficial Package for Official Text Marketer Rest Client",
 	"keywords"   : [
 		"textmarketer",
 		"sdk",
